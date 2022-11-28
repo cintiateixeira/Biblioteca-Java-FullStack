@@ -51,6 +51,7 @@ public class Cadastro {
                 data+"\nAutor: "+autor+"\nedicao: "+edicao+"\nlingua: "+lingua+
                 "\ngenero: "+genero+"\npreco: R$ "+preco+"\nquantidade: "+quantidade);
 
+
     }
 
 }
