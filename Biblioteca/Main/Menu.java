@@ -34,7 +34,7 @@ public class Menu {
         System.out.println("data(sem traço nem parentese)");
         livro1.insertData(leia.nextInt());
         System.out.println("Edição do livro:");
-        livro1.insertEdicao(leia.nextLine());
+        livro1.insertVolume(leia.nextInt());
         System.out.println("Genero do livro");
         livro1.insertGenero(leia.nextLine());
         System.out.println("Lingua do livro");
